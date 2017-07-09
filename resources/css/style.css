@@ -21,7 +21,12 @@ h3 {
   color: gray;
 }
 
-#copyright {
+#links {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
   text-align: right;
   color: gray;
 }
